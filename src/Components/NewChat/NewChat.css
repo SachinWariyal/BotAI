@@ -1,0 +1,12 @@
+.newChat{
+    min-width: 208px;
+    min-height: 47px;
+    background: #a896c9;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
