@@ -1,0 +1,42 @@
+.question-container{
+    min-width: 1080px;
+    background-color: white;
+    height: 105px;
+    display: flex   ;
+    justify-content: start  ;
+    align-items: center ;
+    border-radius: 10px;
+    /* box-shadow: */
+}
+.response-container{
+    min-width: 1080px;
+    background-color: white;
+    height: 105px;
+    display: flex   ;
+    justify-content: start;
+    align-items: center ;
+    border-radius: 10px;
+    margin-top: 2rem;
+    /* box-shadow: */
+}
+img{
+    margin-left: 2rem;
+}
+.chat-details{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-left: 2rem;
+}
+.question{
+  margin: 2rem 0;
+}
+.time{
+   
+}
+
+
+.response{
+    margin: 2rem 0;
+}
