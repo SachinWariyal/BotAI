@@ -22,21 +22,24 @@
 }
 
 .input-area{
-    position: absolute;
+    position: absolute; 
     bottom: 0;
     left: 20%;
     display: flex;
+    /* width: 100%; */
+    /* flex-direction: column; */
     justify-content: center;
     align-items: center;
     margin-bottom: 30px;
     min-width: 846px;
 }
 .chatbox{
-    min-width: 846px;
+    /* min-width: 846px; */
     height: 41px;
     border-radius: 10px;
     padding: 10px;
     margin-left: 350px;
+    
 }
 .btn{
     background-color: #D7C7F4;
