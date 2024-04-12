@@ -1,6 +1,6 @@
 import "./PastConversation.css";
 import PropTypes from 'prop-types';
-const PastConversation = ({ onClick, chatHistory }) => {
+const PastConversation = ({  chatHistory }) => {
   return (
     <div>
     <h2>Past Conversations</h2>
